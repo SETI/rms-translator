@@ -34,6 +34,7 @@ classifiers = [
 
 [project.urls]
 Homepage = "https://github.com/SETI/rms-translator"
+Documentation = "https://rms-translator.readthedocs.io/en/latest"
 Repository = "https://github.com/SETI/rms-translator"
 Source = "https://github.com/SETI/rms-translator"
 Issues = "https://github.com/SETI/rms-translator/issues"
